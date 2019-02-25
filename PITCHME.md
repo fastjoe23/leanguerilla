@@ -18,7 +18,7 @@ Wege zur Innovation
 @snapend
 
 @snap[east text-white span-45]
-@ol[split-screen-list text-12](false)
+@ol[split-screen-list text-08](false)
 - Silicon Route
 - Big Bang
 - The Lab
