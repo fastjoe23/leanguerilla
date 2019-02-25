@@ -32,15 +32,15 @@ Wege zur Innovation
 @snapend
 
 
----?image=template/img/bg/blue.jpg&position=left&size=30% 100%
+---?image=assets/img/blue.jpg&position=left&size=30% 100%
 @title[Header Silicon Route]
 
 @snap[west text-white]
 @size[3em](1.)
 @snapend
 
-@snap[east span-70]
-<h2>The Silicon Route @css[text-blue](dolor)</h2>
+@snap[east span-70 text-white]
+<h2>The Silicon Route</h2>
 @snapend
 
 ---
@@ -59,9 +59,8 @@ Wege zur Innovation
 
 ---
 @title[P&Cs Silicon Route]
-@snap[west]
-@box[span-45](Pros#
-  @ul[](false)
+@snap[west span-45]
+@box[](Pros# @ul[](false)
     - Relativ günstig
     - zwei Wochen Ruhe
     - gute Zeit für den Vorstand
@@ -69,9 +68,8 @@ Wege zur Innovation
   )
 @snapend
 
-@snap[east]
-@box[span-45](Cons#
-  @ul[](false)
+@snap[east span-45]
+@box[](Cons# @ul[](false)
     - 1 Person begeistert
     - zuhause hat sich nichts verändert
     - keine Kommunikation möglich
