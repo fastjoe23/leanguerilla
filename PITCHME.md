@@ -69,10 +69,9 @@ Wege zur Innovation
 @snapend
 
 @snap[east span-45]
-@box[](Cons# @ul[](false)
+@box[bg-green text-white demo-box-text-padding rounded](Cons#@ul[](false)
     - 1 Person begeistert
     - zuhause hat sich nichts verändert
     - keine Kommunikation möglich
-  @ulend
-  )
+  @ulend)
 @snapend
