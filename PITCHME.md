@@ -1,3 +1,5 @@
+@title[Titelfolie]
+
 @snap[west text-25 text-bold]
 How to move the dinosaur
 @snapend
@@ -6,13 +8,14 @@ der steinige Weg zum innovativen Versicherer
 @snapend
 
 ---
-
+@title[Disclaimer]
 @box[bg-orange text-white demo-box-text-padding rounded](Disclaimer#Ich bin promovierter Mathematiker und Aktuar. Daneben Leiter einer Gruppe von COBOL-Anwendungsentwicklern.)
 @snap[south-east template-note text-bold]
 innovativ?
 @snapend
 
 ---?image=assets/img/blue.jpg&position=right&size=50% 100%
+@title[Agenda]
 @snap[west text-16 text-bold text-italic text-blue span-50]
 Wege zur Innovation
 @snapend
@@ -28,19 +31,50 @@ Wege zur Innovation
 @olend
 @snapend
 
----?image=assets/img/blue.jpg&position=right&size=50% 100%
 
-@snap[west text-16 text-bold text-italic text-blue span-50]
-Wege zur Innovation
+---?image=template/img/bg/blue.jpg&position=left&size=30% 100%
+@title[Header Silicon Route]
+
+@snap[west text-white]
+@size[3em](1.)
 @snapend
 
-@snap[east text-white span-45]
-@ol[split-screen-list text-08](false)
-Silicon Route
-    Big Bang
-    Lab
-    Buy Out
-    Companion App
-    Lean Guerilla
-@olend
+@snap[east span-70]
+<h2>The Silicon Route @css[text-blue](dolor)</h2>
+@snapend
+
+---
+@title[Silicon Route Uebersicht]
+@snap[west]
+2DO: Bild von San Fransico
+@snapend
+
+@snap[mid-point]
+2DO: Flugzeug
+@snapend
+
+@snap[east]
+2DO: Bild Unternehmen
+@snapend
+
+---
+@title[P&Cs Silicon Route]
+@snap[west]
+@box[span-45](Pros#
+  @ul[](false)
+    - Relativ günstig
+    - zwei Wochen Ruhe
+    - gute Zeit für den Vorstand
+  @ulend
+  )
+@snapend
+
+@snap[east]
+@box[span-45](Cons#
+  @ul[](false)
+    - 1 Person begeistert
+    - zuhause hat sich nichts verändert
+    - keine Kommunikation möglich
+  @ulend
+  )
 @snapend
