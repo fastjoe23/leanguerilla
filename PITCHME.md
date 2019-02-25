@@ -1,4 +1,4 @@
-@snap[north text-25 text-bold]
+@snap[west text-25 text-bold]
 How to move the dinosaur
 @snapend
 @snap[south-east text-20]
