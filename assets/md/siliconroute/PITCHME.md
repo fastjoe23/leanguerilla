@@ -11,16 +11,16 @@
 
 ---
 @title[Silicon Route Uebersicht]
-@snap[west]
-2DO: Bild von San Fransico
+@snap[west span-30]
+![SanFran](assets/img/san-francisco.jpg)
 @snapend
 
 @snap[mid-point]
-@fa[plane text-black fa-3x]
+@fa[plane text-black fa-4x fa-flip-horizontal]
 @snapend
 
 @snap[east]
-@fa[building text-black fa-5x]
+@fa[male text-black fa-5x]
 @snapend
 
 ---

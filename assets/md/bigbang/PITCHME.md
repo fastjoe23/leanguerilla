@@ -24,7 +24,7 @@ Roland Berger
 @snapend
 
 @snap[east]
-@fa[building text-black fa-5x]
+@fa[building-o text-black fa-5x]
 @snapend
 
 ---
