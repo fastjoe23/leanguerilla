@@ -15,11 +15,13 @@
 ![SanFran](assets/img/san-francisco.jpg)
 @snapend
 
-
+@snap[mid-point]
+@fa[arrow-left textblack fa-3x]
+@snapend
 
 @snap[east]
-@fa[plane text-black fa-4x fa-flip-horizontal]
-@fa[male text-black fa-3x]
+@fa[plane text-black fa-5x fa-flip-horizontal]
+@fa[male text-black fa-2x]
 @snapend
 
 ---
