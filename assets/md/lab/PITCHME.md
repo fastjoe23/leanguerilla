@@ -12,12 +12,16 @@
 ---
 @title[The Lab Uebersicht]
 @snap[west]
-@fa[building-o text-black fa-8x]
+@fa[building-o text-black fa-5x]
+@snapend
+
+@snap[mid-point text-bold]
++
 @snapend
 
 @snap[east]
 @fa[cube text-black fa-5x]
-@fa[lightbulb-o text-yellow fa-5x]
+@fa[lightbulb-o text-yellow fa-4x]
 @snapend
 
 ---
