@@ -20,8 +20,8 @@
 @snapend
 
 @snap[east]
-@fa[cube text-black fa-5x]
-@fa[lightbulb-o text-yellow fa-4x]
+@fa[cube text-black fa-3x]
+@fa[lightbulb-o text-yellow fa-2x]
 @snapend
 
 ---
