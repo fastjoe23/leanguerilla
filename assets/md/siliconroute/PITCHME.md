@@ -16,7 +16,7 @@
 @snapend
 
 @snap[mid-point]
-2DO: Flugzeug
+@fa[plane text-black fa-3x]
 @snapend
 
 @snap[east]
