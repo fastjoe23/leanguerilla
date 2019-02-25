@@ -45,3 +45,7 @@ Roland Berger
     - teuer
   @ulend
 @snapend
+
+@snap[south span-75]
+Merke: Wer nicht handelt, landet hier.
+@snapend

@@ -43,3 +43,7 @@
     - keine Kommunikation möglich
   @ulend
 @snapend
+
+@snap[south span-75]
+Anbieter: https://siliconvalley.tours https://siliconvalleyforum.com
+@snapend
