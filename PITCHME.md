@@ -1,4 +1,8 @@
-# How to move the dinosaur - der steinige Weg zum innovativen Versicherer
+@snap[west text-25 text-bold]  How to move the dinosaur
+@snapend
+@snap[south-east text-20]
+der steinige Weg zum innovativen Versicherer
+@snapend
 
 ---
 
