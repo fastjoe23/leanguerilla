@@ -56,6 +56,6 @@
   @ulend
 @snapend
 
-@snap[south span-50]
+@snap[south span-75]
 Beispiele: treefin - W&W, Apple, Google
 @snapend
