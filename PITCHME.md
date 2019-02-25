@@ -12,13 +12,13 @@ der steinige Weg zum innovativen Versicherer
 innovativ?
 @snapend
 
----?image=assets/img/blue.jpg&position=right&size=50% 100%
-@snap[west text-16 text-bold text-italic text-blue span-50]
+---?image=assets/img/blue.jpg&position=right&size=50%
+@snap[west text-32 text-bold text-italic text-blue span-50]
 Wege zur Innovation
 @snapend
 
 @snap[east text-white span-45]
-@ol[split-screen-list text-08](false)
+@ol[split-screen-list text-16](false)
 - Silicon Route
 - Big Bang
 - The Lab
