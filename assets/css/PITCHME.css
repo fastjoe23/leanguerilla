@@ -38,7 +38,7 @@
 }
 
 .split-screen-list li::before {
-  color: blue !important;
+  color: #FF5600 !important;
   background-color: white !important;
 }
 
