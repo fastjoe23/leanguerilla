@@ -26,3 +26,18 @@
   color: white;
   font-weight: bold;
 }
+
+/* Split-Screen Template Styles */
+
+.split-screen-img {
+  border-radius: 8% !important;
+}
+
+.split-screen-list li {
+  margin:0 0 40px 0;
+}
+
+.split-screen-list li::before {
+  color: #FF5600 !important;
+  background-color: white !important;
+}
