@@ -60,18 +60,19 @@ Wege zur Innovation
 ---
 @title[P&Cs Silicon Route]
 @snap[west span-45]
-@box[bg-green text-white demo-box-text-padding rounded](Pros# @ul[](false)
+  <h3>Pros</h3>
+  @ul[](false)
     - Relativ günstig
     - zwei Wochen Ruhe
     - gute Zeit für den Vorstand
-  @ulend
-  )
+    @ulend
 @snapend
 
 @snap[east span-45]
-@box[bg-green text-white demo-box-text-padding rounded](Cons#@ul[](false)
+  <h3>Cons</h3>
+  @ul[](false)
     - 1 Person begeistert
     - zuhause hat sich nichts verändert
     - keine Kommunikation möglich
-  @ulend)
+  @ulend
 @snapend
