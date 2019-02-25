@@ -1,4 +1,4 @@
----?image=assets/img/blue.jpg&position=left&size=30% 100%
+---?image=assets/img/blue.jpg&position=right&size=30% 100%
 @title[Header Big Bang]
 
 @snap[east text-white]
@@ -12,8 +12,10 @@
 ---
 @title[Big Bang Uebersicht]
 @snap[west]
-Mc Kinsey
-Roland Berger
+Mc Kinsey  
+
+Roland Berger  
+
 ...
 @snapend
 
@@ -22,7 +24,7 @@ Roland Berger
 @snapend
 
 @snap[east]
-@fa[building text-black fa-3x]
+@fa[building text-black fa-5x]
 @snapend
 
 ---

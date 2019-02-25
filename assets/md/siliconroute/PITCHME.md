@@ -20,7 +20,7 @@
 @snapend
 
 @snap[east]
-2DO: Bild Unternehmen
+@fa[building text-black fa-5x]
 @snapend
 
 ---
