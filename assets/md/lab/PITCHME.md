@@ -42,3 +42,7 @@
     - sinnvolle Ideen?
   @ulend
 @snapend
+
+@snap[south span-75]
+Beispiele: Allianz, MunichRE, Ricola
+@snapend
