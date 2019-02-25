@@ -8,13 +8,14 @@ der steinige Weg zum innovativen Versicherer
 ---
 
 @box[bg-orange text-white demo-box-text-padding rounded](Disclaimer#Ich bin promovierter Mathematiker und Aktuar. Daneben Leiter einer Gruppe von COBOL-Anwendungsentwicklern.)
-@snap[east template-note text-bold]
+@snap[south-east template-note text-bold]
 innovativ?
 @snapend
 
----
+---?image=assets/img/blue.jpg&position=right&size=50% 100%
 
-@snap[west text-16 text-bold text-italic text-blue span-50] Wege zur Innovation
+@snap[west text-16 text-bold text-italic text-blue span-50]
+Wege zur Innovation
 @snapend
 
 @snap[east text-white span-45]
