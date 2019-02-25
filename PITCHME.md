@@ -12,8 +12,8 @@ der steinige Weg zum innovativen Versicherer
 innovativ?
 @snapend
 
----?image=assets/img/blue.jpg&position=right&size=50%
-@snap[west text-32 text-bold text-italic text-blue span-50]
+---?image=assets/img/blue.jpg
+@snap[west text-16 text-bold text-italic text-blue span-50]
 Wege zur Innovation
 @snapend
 
