@@ -60,7 +60,7 @@ Wege zur Innovation
 ---
 @title[P&Cs Silicon Route]
 @snap[west span-45]
-@box[](Pros# @ul[](false)
+@box[bg-green text-white demo-box-text-padding rounded](Pros# @ul[](false)
     - Relativ günstig
     - zwei Wochen Ruhe
     - gute Zeit für den Vorstand
