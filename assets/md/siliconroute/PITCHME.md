@@ -16,7 +16,7 @@
 @snapend
 
 @snap[mid-point]
-@fa[arrow-left textblack fa-3x]
+@fa[arrow-left textblack fa-2x]
 @snapend
 
 @snap[east]

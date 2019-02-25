@@ -35,3 +35,5 @@ Wege zur Innovation
 ---?include=assets/md/siliconroute/PITCHME.md
 
 ---?include=assets/md/bigbang/PITCHME.md
+
+---?include=assets/md/lab/PITCHME.md
