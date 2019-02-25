@@ -45,5 +45,5 @@
 @snapend
 
 @snap[south span-75]
-Anbieter: [https://siliconvalley.tours]([https://siliconvalley.tours) [https://siliconvalleyforum.com](https://siliconvalleyforum.com)
+Anbieter: [siliconvalley.tours](www.siliconvalley.tours), [siliconvalleyforum.com](www.siliconvalleyforum.com)
 @snapend
