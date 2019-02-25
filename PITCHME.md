@@ -1,9 +1,18 @@
-@snap[west text-25 text-bold]
+@snap[north-west text-25 text-bold]
 How to move the dinosaur
 @snapend
 @snap[south-east text-20]
 der steinige Weg zum innovativen Versicherer
 @snapend
+
+---
+
+@box[bg-blue text-white demo-box-text-padding rounded](Disclaimer#Ich bin promovierter Mathematiker und Aktuar. Daneben Leiter einer Gruppe von COBOL-Anwendungsentwicklern.)
+@span[south-east template-note]
+Innovation?
+@snapend
+
+
 
 ---
 
