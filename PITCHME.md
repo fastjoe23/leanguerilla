@@ -37,3 +37,5 @@ Wege zur Innovation
 ---?include=assets/md/bigbang/PITCHME.md
 
 ---?include=assets/md/lab/PITCHME.md
+
+---?include=assets/md/buyout/PITCHME.md
