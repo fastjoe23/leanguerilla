@@ -31,9 +31,9 @@
 @fa[building-o text-black fa-5x]
 @snapend
 
-@snap[south-east]
-@fa[arrow-left text-red]
-@fa[eur]
+@snap[south]
+@fa[arrow-left fa-2x red]
+@fa[eur fa-2x]
 @snapend
 
 ---
