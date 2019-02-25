@@ -59,7 +59,7 @@ Wege zur Innovation
 
 ---
 @title[P&Cs Silicon Route]
-@snap[west span-45]
+@snap[north-west span-45]
   <h3>Pros</h3>
   @ul[](false)
     - Relativ günstig
@@ -68,7 +68,7 @@ Wege zur Innovation
     @ulend
 @snapend
 
-@snap[east span-45]
+@snap[north-east span-45]
   <h3>Cons</h3>
   @ul[](false)
     - 1 Person begeistert
