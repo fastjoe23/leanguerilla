@@ -10,13 +10,13 @@
 <h2>Lean Guerilla</h2>
 @snapend
 
-@snap[south-west span-70]
+@snap[south-east span-30]
 ![CHE](assets/img/che.png)
 @snapend
 
 
 @snap[south template-note text-gray]
-Bild von OpenClipart-Vectors auf Pixabay
+Che von OpenClipart-Vectors auf Pixabay
 @snapend
 
 ---
