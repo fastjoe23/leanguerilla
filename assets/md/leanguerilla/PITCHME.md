@@ -10,7 +10,7 @@
 <h2>Lean Guerilla</h2>
 @snapend
 
-@snap[south-east span-30]
+@snap[north-west span-30]
 ![CHE](assets/img/che.png)
 @snapend
 
