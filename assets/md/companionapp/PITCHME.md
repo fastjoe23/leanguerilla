@@ -21,8 +21,8 @@
 
 @snap[east span-45]
 @fa[renren text-black fa-1x]
-@fa[sellsy text-black fa-1x]
-  
+@fa[sellsy text-black fa-1x]  
+
 @fa[modx text-black fa-1x]
 @fa[angellist text-black fa-1x]
 @snapend
