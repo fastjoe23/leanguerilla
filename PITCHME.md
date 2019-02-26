@@ -39,3 +39,5 @@ Wege zur Innovation
 ---?include=assets/md/lab/PITCHME.md
 
 ---?include=assets/md/buyout/PITCHME.md
+
+---?include=assets/md/companionapp/PITCHME.md
