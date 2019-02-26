@@ -22,6 +22,7 @@
 @snap[east]
 @fa[plane text-black fa-5x fa-flip-horizontal]
 @fa[male text-black fa-2x]
+@fa[building-o text-black fa-4x]
 @snapend
 
 ---

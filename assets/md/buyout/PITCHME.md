@@ -32,7 +32,7 @@
 @snapend
 
 @snap[south]
-@fa[arrow-left fa-2x red]
+@fa[arrow-left fa-1x red]
 @fa[eur fa-2x]
 @snapend
 
