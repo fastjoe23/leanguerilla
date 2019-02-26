@@ -11,12 +11,12 @@
 @snapend
 
 @snap[south-west span-70]
-image=assets/img/che.png&position=left&size=100%
+![CHE](assets/img/che.png)
 @snapend
 
 
 @snap[south template-note text-gray]
-@size[small](Bild von OpenClipart-Vectors auf Pixabay)
+Bild von OpenClipart-Vectors auf Pixabay
 @snapend
 
 ---
