@@ -19,12 +19,12 @@
 @fa[exchange textblack fa-4x]
 @snapend
 
-@snap[east]
-@fa[instagram text-black fa-4x]
-@fa[meetup text-black fa-4x]
+@snap[east span-45]
+@fa[renren text-black fa-1x]
+@fa[sellsy text-black fa-1x]
 
-@fa[modx text-black fa-4x]
-@fa[angelist text-black fa-4x]
+@fa[modx text-black fa-1x]
+@fa[angellist text-black fa-1x]
 @snapend
 
 ---
