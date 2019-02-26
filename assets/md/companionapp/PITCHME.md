@@ -24,12 +24,10 @@
 @snapend
 
 @snap[east span-45]
-@fa[renren text-black fa-2x]  
+@fa[renren text-black fa-2x]
+ @fa[sellsy text-black fa-2x]  
 
-@fa[sellsy text-black fa-2x]  
-
-@fa[modx text-black fa-2x]  
-
+@fa[modx text-black fa-2x]
 @fa[angellist text-black fa-2x]
 @snapend
 
