@@ -16,7 +16,11 @@
 @snapend
 
 @snap[mid-point]
-@fa[exchange textblack fa-4x]
+@fa[eur text-black fa-2x]  
+
+@fa[exchange text-black fa-4x]  
+
+@fa[lightbulb-o text-yellow  fa-2x]
 @snapend
 
 @snap[east span-45]
