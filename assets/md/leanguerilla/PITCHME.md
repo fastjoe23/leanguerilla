@@ -20,42 +20,44 @@ Che von OpenClipart-Vectors auf Pixabay
 @snapend
 
 ---
-@title[Big Bang Uebersicht]
-@snap[west]
-Mc Kinsey  
-
-Roland Berger  
-
-...
-@snapend
-
-@snap[mid-point]
-@fa[arrow-right text-black fa-3x]
-@snapend
-
-@snap[east]
-@fa[building-o text-black fa-5x]
-@snapend
+@title[Motivation bei Mao]
+# Motivation
+@quote[Guerrilla leaders spend a great deal more time in organization, instruction, agitation, and propaganda work than they do fighting, for their most important job is to win over the people.](Mao Tse-tung)  
 
 ---
-@title[P&CsLean Guerilla]
+@title[Vorgehen]
+# Vorgehen
+
+---
+@title[Beispiele Lean Guerilla]
+# Beispiele
+@ul
+  - Stuttgarter Agil
+  - InsurTech Meetup
+  - SCRUM-Workshop / Pilot
+  - Lesezirkel
+@ulend
+
+---
+@title[P&Cs leanguerilla]
 @snap[north-west span-45]
   <h3>Pros</h3>
   @ul[](false)
-    - schnell
-    - effizient
-    - die waren es
+    - Leute werden mit genommen
+    - kaum Risiko
+    - macht Spaß
     @ulend
 @snapend
 
 @snap[north-east span-45]
   <h3>Cons</h3>
   @ul[](false)
-    - Pendel schlägt zurück
-    - teuer
+    - dauert
+    - zäh
+    - aufwendig
   @ulend
 @snapend
 
 @snap[south span-75]
-Merke: Wer nicht handelt, landet hier.
+Notwendig: Nicht reden, einfach machen!
 @snapend
