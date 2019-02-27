@@ -76,11 +76,11 @@ Lego Stormtroopers von Pixabay.
 @snapend
 
 ---?image=assets/img/blue.jpg
-@snap[north-west span-45 text-white]
-### Unterbau
+@snap[north-west span-45]
+@color[white](### Unterbau)
 @snapend
 
-@snap[west span-30 fragment]
+@snap[south-west span-30 fragment]
 @box[bg-orange text-white](Build-Measure-Learn#Wir folgen mit jeder neuen Aktion dem Build-Measure-Learn Kreislauf von Eric Ries.)
 @snapend
 
