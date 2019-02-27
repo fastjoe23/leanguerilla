@@ -30,7 +30,7 @@ Che von OpenClipart-Vectors auf Pixabay
 Vorgehen
 @snapend
 
-@snap[mid-point span-45]
+@snap[mid-point]
 ![guerilla](assets/img/guerillateam.JPG)  
 @ol
   - Baue eine 1. Zelle auf
