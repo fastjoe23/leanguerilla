@@ -26,10 +26,8 @@ Che von OpenClipart-Vectors auf Pixabay
 
 ---
 @title[Vorgehen]
-## Vorgehen
-
 @snap[north-west span-35]
-Vorgehen
+## Vorgehen
 @snapend
 
 @snap[west]
