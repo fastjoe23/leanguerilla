@@ -78,15 +78,15 @@ Lego Stormtroopers von Pixabay.
 ---?image=assets/img/blue.jpg
 
 @snap[north span-80 fragment]
-@box[bg-orange text-white](Build-Measure-Learn#Wir folgen m dem Build-Measure-Learn Kreislauf von Eric Ries.)
+@box[bg-orange text-white](Build-Measure-Learn#Wir folgen dem Build-Measure-Learn Kreislauf von Ries.)
 @snapend
 
 @snap[mid-point span-80 fragment]
-@box[bg-orange text-white](MVP#Jede Guerilla-Aktion ist an sich ein Minimum Viable Product nach Eric Ries.)
+@box[bg-orange text-white](MVP#Jede Guerilla-Aktion ist an sich ein Minimum Viable Product nach Ries.)
 @snapend
 
 @snap[south span-80 fragment]
-@box[bg-orange text-white](Reinventing#Mit jeder Aktion werden andere Mitarbeiter des Hauses angeregt gemeinsam das Unternehmen nach Frederic Leloux neu zu entdecken.)
+@box[bg-orange text-white](Reinventing#Jede Aktion regt andere Mitarbeiter an das Unternehmen nach Laloux neu zu erfinden.)
 @snapend
 
 ---
