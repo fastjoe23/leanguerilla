@@ -5,4 +5,4 @@ The slides in this repo are built for the first introduction of the lean guerill
 
 To see the slides in their full delightfulness, go to:
 
-[www.gitpitch.com/fastjoe23/leanguerilla](https://www.gitpitch.com/fastjoe23/leanguerilla)
+[www.gitpitch.com/fastjoe23/leanguerilla](http://www.gitpitch.com/fastjoe23/leanguerilla)
