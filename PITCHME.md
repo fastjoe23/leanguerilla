@@ -48,7 +48,7 @@ Wege zur Innovation
 ---?image=assets/img/blue.jpg&position=right&size=50% 100%
 @title[Resumme]
 @snap[north-west span-35]
-## Zusammenfassung
+#### Zusammenfassung
 @snapend
 
 @snap[west text-16 text-bold text-italic text-blue span-50]
@@ -81,4 +81,6 @@ Wege zur Innovation
 
 @fa[github fa-2x] www.github.com/fastjoe23/leanguerilla
 
+@snap[south]
 Danke für Ihre Aufmerksamkeit.
+@snapend
