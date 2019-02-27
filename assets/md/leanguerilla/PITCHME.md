@@ -76,6 +76,16 @@ Lego Stormtroopers von Pixabay.
 @snapend
 
 ---
+@snap[north-west span-75]
+### Theoretischer Unterbau
+@snapend
+
+Boxen mit Build-Measure-Learn.
+mit Minimal Viable Product
+mit Lean Management
+
+
+---
 @title[Beispiele Lean Guerilla]
 @snap[north-west span-35]
 Beispiele
