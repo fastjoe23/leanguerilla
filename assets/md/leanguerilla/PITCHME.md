@@ -75,15 +75,22 @@ Boer guerrillas during the Second Boer War in South Africa (wikipedia.org).
 Lego Stormtroopers von Pixabay.
 @snapend
 
----
-@snap[north-west span-75]
-### Theoretischer Unterbau
+---?image=assets/img/blue.jpg
+@snap[west span-45]
+# Unterbau
 @snapend
 
-Boxen mit Build-Measure-Learn.
-mit Minimal Viable Product
-mit Lean Management
+@snap[north-east span-60 fragment]
+@box[bg-orange text-white](Build-Measure-Learn#Wir folgen mit jeder neuen Aktion dem Build-Measure-Learn Kreislauf von Eric Ries.)
+@snapend
 
+@snap[east span-60 fragment]
+@box[bg-orange text-white](MVP#Jede Guerilla-Aktion ist an sich ein Minimum Viable Product nach Eric Ries.)
+@snapend
+
+@snap[south-east span-60 fragment]
+@box[bg-orange text-white](Reinventing#Mit jeder Aktion werden andere Mitarbeiter des Hauses angeregt gemeinsam das Unternehmen nach Frederic Leloux neu zu entdecken.)
+@snapend
 
 ---
 @title[Beispiele Lean Guerilla]
