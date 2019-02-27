@@ -77,7 +77,7 @@ Wege zur Innovation
 ---
 ## Join the movement
 
-@fa[file-powerpoint-o fa-2x] [www.gitpitch.com/fastjoe23/leanguerilla](www.gitpitch.com/fastjoe23/leanguerilla)
+@fa[file-powerpoint-o fa-2x] [www.gitpitch.com/fastjoe23/leanguerilla](/leanguerilla)
 
 @fa[github fa-2x] www.github.com/fastjoe23/leanguerilla
 
