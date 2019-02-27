@@ -45,17 +45,16 @@ Boer guerrillas during the Second Boer War in South Africa (wikipedia.org).
 
 ---
 @title[Vorgehen]
-@snap[north-west span-35]
-# Vorgehen
-@snapend
-
 @snap[mid-point span-75]
 ![guerilla](assets/img/guerillateam.JPG)  
-@ol[](false)
-  - Baue eine 1. Zelle auf
-  - Starte erste Guerilla-Aktionen
-  - Koordiniere die Propaganda
-@olend
+@snapend
+
+@snap[north-east span-20]
+![Stormtroopers](assets/img/stormtroopers.jpg)
+@snapend
+
+@snap[east span-20]
+![Disabled-Stormtroopers](assets/img/wheelchair-stormtroopers.jpg)
 @snapend
 
 @snap[south-east span-20]
