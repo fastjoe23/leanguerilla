@@ -84,7 +84,7 @@ Lego Stormtroopers von Pixabay.
 @box[bg-orange text-white](Build-Measure-Learn#Wir folgen m dem Build-Measure-Learn Kreislauf von Eric Ries.)
 @snapend
 
-@snap[mid-point span-35 fragment]
+@snap[east span-35 fragment]
 @box[bg-orange text-white](MVP#Jede Guerilla-Aktion ist an sich ein Minimum Viable Product nach Eric Ries.)
 @snapend
 
