@@ -79,7 +79,7 @@ Wege zur Innovation
 
 @fa[file-powerpoint-o fa-2x] [www.gitpitch.com/fastjoe23/leanguerilla](/fastjoe23/leanguerilla)
 
-@fa[github fa-2x] www.github.com/fastjoe23/leanguerilla
+@fa[github fa-2x] [www.github.com/fastjoe23/leanguerilla](https://www.github.com/fastjoe23/leanguerilla)
 
 @snap[south]
 Danke für Ihre Aufmerksamkeit.

@@ -47,8 +47,8 @@ Boer guerrillas during the Second Boer War in South Africa (wikipedia.org).
 @snapend
 
 ---
-@snap[north-west span-35]
-## Neue Zellen entstehen
+@snap[north-west span-75]
+### Neue Zellen entstehen
 @snapend
 
 @snap[west span-75]
