@@ -27,11 +27,11 @@ Che von OpenClipart-Vectors auf Pixabay
 ---
 @title[Vorgehen]
 @snap[north-west span-35]
-# Vorgehen
+Vorgehen
 @snapend
 
 @snap[mid-point span-45]
-![guerilla](assets/img/guerillateam,JPG)  
+![guerilla](assets/img/guerillateam.JPG)  
 @ol
   - Baue eine 1. Zelle auf
   - Starte erste Guerilla-Aktionen
