@@ -47,10 +47,12 @@ Boer guerrillas during the Second Boer War in South Africa (wikipedia.org).
 @title[Vorgehen]
 @snap[mid-point span-75]
 ![guerilla](assets/img/guerillateam.JPG)  
+
+@fa[arrow-right fa-5x]
 @snapend
 
 @snap[north-east span-20]
-![Stormtroopers](assets/img/stormtroopers.jpg)
+![Stormtroopers](assets/img/stormtrooper.jpg)
 @snapend
 
 @snap[east span-20]
