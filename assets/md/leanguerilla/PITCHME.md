@@ -21,12 +21,50 @@ Che von OpenClipart-Vectors auf Pixabay
 
 ---
 @title[Motivation bei Mao]
-# Motivation
+
 @quote[Guerrilla leaders spend a great deal more time in organization, instruction, agitation, and propaganda work than they do fighting, for their most important job is to win over the people.](Mao Tse-tung)  
 
 ---
 @title[Vorgehen]
+@snap[north-west span-35]
 # Vorgehen
+@snapend
+
+@snap[mid-point span-45]
+![guerilla](assets/img/guerillateam,JPG)  
+@ol
+  - Baue eine 1. Zelle auf
+  - Starte erste Guerilla-Aktionen
+  - Koordiniere die Propaganda
+@olend
+@snapend
+
+@snap[south template-note text-gray]
+Boer guerrillas during the Second Boer War in South Africa (wikipedia.org).
+@snapend
+
+---
+@title[Vorgehen]
+@snap[north-west span-35]
+# Vorgehen
+@snapend
+
+@snap[mid-point span-45]
+![guerilla](assets/img/guerillateam,JPG)  
+@ol[](false)
+  - Baue eine 1. Zelle auf
+  - Starte erste Guerilla-Aktionen
+  - Koordiniere die Propaganda
+@olend
+@snapend
+
+@snap[south-east span-20]
+![Bicycle-Stormtroopers](assets/img/byciclestormtroopers.jpg)
+@snapend
+
+@snap[south template-note text-gray]
+Lego Stormtroopers von Pixabay.
+@snapend
 
 ---
 @title[Beispiele Lean Guerilla]
@@ -45,6 +83,7 @@ Che von OpenClipart-Vectors auf Pixabay
   @ul[](false)
     - Leute werden mit genommen
     - kaum Risiko
+    - sehr billig
     - macht Spaß
     @ulend
 @snapend
