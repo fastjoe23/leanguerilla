@@ -26,6 +26,8 @@ Che von OpenClipart-Vectors auf Pixabay
 
 ---
 @title[Vorgehen]
+## Vorgehen
+
 @snap[north-west span-35]
 Vorgehen
 @snapend
@@ -47,7 +49,6 @@ Boer guerrillas during the Second Boer War in South Africa (wikipedia.org).
 @snapend
 
 ---
-@title[Vorgehen]
 @snap[west span-75]
 ![guerilla](assets/img/guerillateam.JPG)
 @snapend
