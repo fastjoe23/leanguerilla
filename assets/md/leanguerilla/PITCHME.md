@@ -31,7 +31,7 @@ Vorgehen
 @snapend
 
 @snap[mid-point]
-![guerilla](assets/img/guerillateam.JPG)  
+![guerilla](assets/img/guerillateam.JPG)
 @ol
   - Baue eine 1. Zelle auf
   - Starte erste Guerilla-Aktionen
@@ -46,8 +46,7 @@ Boer guerrillas during the Second Boer War in South Africa (wikipedia.org).
 ---
 @title[Vorgehen]
 @snap[mid-point span-75]
-![guerilla](assets/img/guerillateam.JPG)  
-
+![guerilla](assets/img/guerillateam.JPG)
 @fa[arrow-right fa-5x]
 @snapend
 
