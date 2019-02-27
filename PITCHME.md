@@ -44,9 +44,8 @@ Wege zur Innovation
 
 ---?include=assets/md/leanguerilla/PITCHME.md
 
----?image=assets/img/blue.jpg&position=right&size=50% 100%
 
----
+---?image=assets/img/blue.jpg&position=right&size=50% 100%
 @title[Resumme]
 @snap[north-west span-35]
 ## Zusammenfassung
@@ -73,11 +72,13 @@ Wege zur Innovation
 ## Fazit
 @snapend
 
-@box[bg-orange text-white demo-box-text-padding rounded](Es gibt nicht den einen Weg zum innovativen Versicherer. Notgedrungen gehen wir den Weg durch den Dschungel. Für Mittelmanager ist dies auch der einzig mögliche. Als Vorstand haben sie die freie Wahl aus allen 6. Ich empfehle starten sie mit 1.)
+@box[bg-orange text-white demo-box-text-padding rounded](Es gibt nicht den einen Weg zum innovativen Versicherer.   Notgedrungen gehen wir den Weg durch den Dschungel. Für Mittelmanager ist dies auch der einzig mögliche.   Als Vorstand haben sie die freie Wahl aus allen 6. Ich empfehle starten sie mit 1.)
 
 ---
-# Join the movement
+## Join the movement
 
-@fa[file-powerpoint-o fa-3x] www.gitpitch.com/fastjoe23/leanguerilla
+@fa[file-powerpoint-o fa-2x] www.gitpitch.com/fastjoe23/leanguerilla
 
-@fa[github fa-3x] www.github.com/fastjoe23/leanguerilla
+@fa[github fa-2x] www.github.com/fastjoe23/leanguerilla
+
+Danke für Ihre Aufmerksamkeit.
