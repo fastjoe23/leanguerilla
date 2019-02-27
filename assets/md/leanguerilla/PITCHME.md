@@ -47,6 +47,10 @@ Boer guerrillas during the Second Boer War in South Africa (wikipedia.org).
 @snapend
 
 ---
+@snap[north-west span-35]
+## Neue Zellen entstehen
+@snapend
+
 @snap[west span-75]
 ![guerilla](assets/img/guerillateam.JPG)
 @snapend
@@ -73,7 +77,10 @@ Lego Stormtroopers von Pixabay.
 
 ---
 @title[Beispiele Lean Guerilla]
-# Beispiele
+@snap[north-west span-35]
+Beispiele
+@snapend
+
 @ul
   - Stuttgarter Agil
   - InsurTech Meetup
