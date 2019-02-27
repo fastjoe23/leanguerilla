@@ -49,8 +49,8 @@ Boer guerrillas during the Second Boer War in South Africa (wikipedia.org).
 # Vorgehen
 @snapend
 
-@snap[mid-point span-45]
-![guerilla](assets/img/guerillateam,JPG)  
+@snap[mid-point span-75]
+![guerilla](assets/img/guerillateam.JPG)  
 @ol[](false)
   - Baue eine 1. Zelle auf
   - Starte erste Guerilla-Aktionen
