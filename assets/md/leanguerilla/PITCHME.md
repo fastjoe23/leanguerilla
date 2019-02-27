@@ -30,8 +30,11 @@ Che von OpenClipart-Vectors auf Pixabay
 Vorgehen
 @snapend
 
-@snap[mid-point]
+@snap[west]
 ![guerilla](assets/img/guerillateam.JPG)
+@snapend
+
+@snap[east]
 @ol
   - Baue eine 1. Zelle auf
   - Starte erste Guerilla-Aktionen
@@ -45,8 +48,11 @@ Boer guerrillas during the Second Boer War in South Africa (wikipedia.org).
 
 ---
 @title[Vorgehen]
-@snap[mid-point span-75]
+@snap[west span-75]
 ![guerilla](assets/img/guerillateam.JPG)
+@snapend
+
+@snap[mid-point]
 @fa[arrow-right fa-5x]
 @snapend
 
