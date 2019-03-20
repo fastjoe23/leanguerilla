@@ -72,13 +72,12 @@ Wege zur Innovation
 ## Fazit
 @snapend
 
-@box[bg-orange text-white demo-box-text-padding rounded](
-  @ul[](false)
-  -Es gibt nicht den einen Weg zum innovativen Versicherer.
-  - Notgedrungen gehen wir den Weg durch den Dschungel. Für Mittelmanager ist dies auch der einzig mögliche.
-  - Als Vorstand haben sie die freie Wahl aus allen 6. Ich empfehle starten sie mit 1.
-  @ulend
-  )
+@ul[](false)
+- Es gibt nicht den einen Weg zum innovativen Versicherer.
+- Notgedrungen gehen wir den Weg durch den Dschungel. Für Mittelmanager ist dies auch der einzig mögliche.
+- Als Vorstand haben sie die freie Wahl aus allen 6. Ich empfehle starten sie mit 1.
+@ulend
+
 
 ---
 ## Join the movement
