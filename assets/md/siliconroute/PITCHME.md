@@ -17,10 +17,11 @@
 
 @snap[mid-point]
 @fa[arrow-left textblack fa-2x]
+@fa[plane text-black fa-5x fa-flip-horizontal]
 @snapend
 
 @snap[east]
-@fa[plane text-black fa-5x fa-flip-horizontal]
+
 @fa[male text-black fa-2x]
 @fa[arrow-left textblack fa-1x]
 @fa[building-o text-black fa-4x]
