@@ -75,19 +75,6 @@ Boer guerrillas during the Second Boer War in South Africa (wikipedia.org).
 Lego Stormtroopers von Pixabay.
 @snapend
 
----
-@title[Beispiele Lean Guerilla]
-@snap[north-west span-35]
-Beispiele
-@snapend
-
-@ul
-  - Stuttgarter Agil
-  - InsurTech Meetup
-  - SCRUM-Workshop / Pilot
-  - Lesezirkel
-@ulend
-
 
 ---?image=assets/img/blue.jpg
 
@@ -103,6 +90,19 @@ Beispiele
 @box[bg-orange text-white rounded](Reinventing#Jede Aktion regt andere Mitarbeiter an das Unternehmen nach Laloux neu zu erfinden.)
 @snapend
 
+---
+@title[Beispiele Lean Guerilla]
+@snap[north-west span-35]
+Beispiele
+@snapend
+
+@ul
+  - Stuttgarter Agil
+  - net(t)eating
+  - InsurTech Meetup
+  - SCRUM-Workshop / Pilot
+  - Lesezirkel
+@ulend
 
 ---
 @title[P&Cs leanguerilla]
@@ -127,5 +127,5 @@ Beispiele
 @snapend
 
 @snap[south span-75]
-Notwendig: Nicht reden, einfach machen!
+Notwendig: Nicht drüber diskutieren, einfach machen!
 @snapend
